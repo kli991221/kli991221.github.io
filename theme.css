@@ -1,0 +1,11 @@
+.eleanor-roosevelt {
+	color: #D70058;
+	box-sizing: content-box;
+	padding: 70px;
+}
+body {
+	line-height: 77%;
+}
+* {
+	font-family: "Helvetica Neue";
+}
