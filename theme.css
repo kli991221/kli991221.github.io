@@ -1,7 +1,8 @@
 .eleanor-roosevelt {
 	color: #950849;
 	box-sizing: border-box;
-	padding: 5%;
+	padding: 10%;
+	transform: rotate(10deg);
 }
 body {
 	line-height: 77%;
