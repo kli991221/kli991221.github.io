@@ -2,7 +2,7 @@
 	color: #950849;
 	box-sizing: border-box;
 	padding: 10%;
-	transform: rotate(10deg);
+	transform: rotate(-10deg);
 }
 body {
 	line-height: 77%;
@@ -22,4 +22,12 @@ p {
 }
 details {
 	margin-left: 50%;
+}
+.eleanor-roosevelt:hover {
+	color: #FFC300;
+	transition: color, 5s;
+}
+a:hover {
+	color: #FFC300;
+	transition: color, 5s;
 }
