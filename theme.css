@@ -1,8 +1,10 @@
 .eleanor-roosevelt {
 	color: #950849;
-	box-sizing: border-box;
-	padding: 10%;
 	transform: rotate(-10deg);
+	position: fixed;
+	bottom: 80%;
+	right: 60%;
+	width:400px;
 }
 body {
 	line-height: 77%;
@@ -14,14 +16,15 @@ body {
 	font-family: "Helvetica Neue";
 	color: #D788CE;
 }
-div {
-	margin-left: 50%;
-}
 p {
-	margin-left: 50%;
+	position: fixed;
+	right: 50%;
+	bottom: 50%;
 }
 details {
-	margin-left: 50%;
+	position: fixed;
+	bottom: 50%;
+	right: 50%;
 }
 .eleanor-roosevelt:hover {
 	color: #FFC300;
