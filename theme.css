@@ -1,11 +1,24 @@
 .eleanor-roosevelt {
-	color: #D70058;
-	box-sizing: content-box;
+	color: #950849;
+	box-sizing: border-box;
 	padding: 70px;
 }
 body {
 	line-height: 77%;
-}
-* {
+	background-image: url(eleanor-photo.jpg);
+	background-position-x: 1050px;
+	background-position-y: top;
+	background-repeat: no-repeat;
+	background-color: #DAF7A6;
 	font-family: "Helvetica Neue";
+	color: #D788CE;
+}
+div {
+	margin-left: 600px;
+}
+p {
+	margin-left: 600px;
+}
+details {
+	margin-left: 600px;
 }
