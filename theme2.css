@@ -2,14 +2,14 @@
 	color: #950849;
 	transform: rotate(-10deg);
 	position: fixed;
-	bottom: 80%;
-	right: 60%;
+	top: 100px;
+	left: 50px;
 	width:400px;
 }
 body {
 	line-height: 77%;
 	background-image: url(eleanor-photo.jpg);
-	background-position-x: 150%;
+	background-position-x: right;
 	background-position-y: top;
 	background-repeat: no-repeat;
 	background-color: #DAF7A6;
@@ -18,13 +18,13 @@ body {
 }
 p {
 	position: fixed;
-	margin-left: 50%;
-	margin-top: 25%;
+	margin-left: 50px;
+	margin-top: 200px;
 }
 details {
 	position: fixed;
-	margin-left: 50%;
-	margin-top: 2%;
+	margin-left: 50px;
+	margin-top: 200px;
 }
 .eleanor-roosevelt:hover {
 	color: #FFC300;
