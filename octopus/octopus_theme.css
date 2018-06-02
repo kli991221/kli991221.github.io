@@ -20,6 +20,8 @@ body {
 }
 
 button {
+	height: 700px;
+	width: 500px;
     border: none;
     background-color: inherit;
     font-size: 500px;
