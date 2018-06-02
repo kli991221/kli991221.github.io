@@ -1,0 +1,111 @@
+body {
+	background: #ccc;
+}
+
+* {
+	font-family: "Helvetica Neue";
+}
+
+.scrolling-wrapper {
+  	overflow-x: scroll;
+  	overflow-y: hidden;
+  	white-space: nowrap;
+  	-webkit-overflow-scrolling: touch;
+}
+
+.card {
+	height: 700px;
+	width: 500px;
+	text-align: center;
+    display: inline-block;
+}
+
+button {
+    border: none;
+    background-color: inherit;
+    font-size: 500px;
+}
+
+button:focus {
+	outline: none;
+}
+
+.card.one {
+	background: #BF1153;
+}
+
+.card.mina {
+	background-image: url("mina.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.card.two {
+	background: #B4D8C3;
+}
+
+.vic {
+	background-image: url("vic.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.card.three {
+	background: #D5D748;
+}
+
+.spence {
+	background-image: url("spence.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.card.four {
+	background: #D242E3;
+}
+
+.fred {
+	background-image: url("fred.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.card.five {
+	background: #00A5A0;
+}
+
+.kat {
+	background-image: url("kat.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.card.six {
+	background: #2AE205;
+}
+
+.josh {
+	background-image: url("josh.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.card.seven {
+	background: #F088D5;
+}
+
+.noah {
+	background-image: url("noah.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.card.eight {
+	background: #FFB31C;
+}
+
+.zhang {
+	background-image: url("zhang.jpg");
+	background-size: cover;
+	background-position: center;
+}
