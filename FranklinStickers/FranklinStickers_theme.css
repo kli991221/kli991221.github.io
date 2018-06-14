@@ -1,0 +1,11 @@
+* {
+	font-family: "Helvetica Neue";
+}
+body {
+	background-image: url(StickerSet.png);
+	background-size: contain;
+}
+span {
+	background-color: #1759c1;
+	color: white;
+}
